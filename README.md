@@ -1,3 +1,3 @@
-- I am Alex
-- I am Java/Go programmer
+- My name is Alex
+- I am a Java/Go programmer
 - That's all folks!
